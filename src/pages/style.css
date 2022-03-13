@@ -1,0 +1,48 @@
+ @import url('https://fonts.googleapis.com/css2?family=Martel:wght@400;600&family=Poppins&display=swap');
+body{
+    background: #DDFFBC;
+}
+.card{
+    width: 100%;
+    border-radius: 10px;
+}
+.card-header{
+    background-color: #52734D;
+    color: #FEFFDE;
+    font-family: 'Martel', serif;
+    font-weight: 600;
+    font-size: 48px;
+}
+h5{
+    color: #120e0e;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+p{
+    color: #120e0e;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 0;
+}
+.btn{
+    background-color: #91C788;
+    color: #120e0e;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+.hasil{
+    width: 100%;
+    background-color: #91C788;
+    border-radius: 8px;
+    padding: 16px 8px 16px 8px;
+}
+.hasil p{
+    color: #120e0e;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0;
+}
